@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff8c092321c4ebb49852507aec600515, type: 3}
+  m_Name: Guard
+  m_EditorClassIdentifier: 
+  CharacterCode: Guard
+  InventoryIndex: 0
+  Name: "G\u1EA5u N\xE2u"
+  Description: cat with small sword
+  CharacterStats:
+    baseHP: 250
+    baseMP: 5
+    baseATK: 30
+    baseDEF: 25
+    baseMATK: 1
+    baseMDEF: 25
+    baseCRIT: 5
+    baseSPD: 55
+    baseEVA: 120
+    baseACC: 660
+    levelUpBonusHP: 2
+    levelUpBonusMP: 2
+    levelUpBonusATK: 2
+    levelUpBonusDEF: 2
+    levelUpBonusMATK: 1
+    levelUpBonusMDEF: 2
+    levelUpBonusCRIT: 2
+    levelUpBonusSPD: 2
+    levelUpBonusEVA: 2
+    levelUpBonusACC: 2
+  Exp: 0
+  PrefabPath: Assets/Prefabs/Characters/Guard/Guard.prefab
+  ItemSpritePath: Assets/Sprites/Characters/Guard/ItemGuard.png
+  ItemSprite: {fileID: 0}
+  ActiveSkillCodeList:
+  - NORMAL_ATTACK

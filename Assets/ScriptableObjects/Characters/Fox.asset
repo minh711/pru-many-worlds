@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff8c092321c4ebb49852507aec600515, type: 3}
+  m_Name: Fox
+  m_EditorClassIdentifier: 
+  CharacterCode: Fox
+  InventoryIndex: 0
+  Name: "\u0110\u1ED9c c\xF4 C\u1EEDu C\xE1o"
+  Description: Fox with sword
+  CharacterStats:
+    baseHP: 77
+    baseMP: 5
+    baseATK: 46
+    baseDEF: 18
+    baseMATK: 1
+    baseMDEF: 15
+    baseCRIT: 333
+    baseSPD: 46
+    baseEVA: 120
+    baseACC: 840
+    levelUpBonusHP: 2
+    levelUpBonusMP: 2
+    levelUpBonusATK: 3
+    levelUpBonusDEF: 2
+    levelUpBonusMATK: 1
+    levelUpBonusMDEF: 1
+    levelUpBonusCRIT: 2
+    levelUpBonusSPD: 4
+    levelUpBonusEVA: 3
+    levelUpBonusACC: 2
+  Exp: 5
+  PrefabPath: Assets/Prefabs/Characters/Fox/Fox.prefab
+  ItemSpritePath: Assets/Sprites/Characters/Fox/ItemFox.png
+  ItemSprite: {fileID: 0}
+  ActiveSkillCodeList:
+  - NORMAL_ATTACK

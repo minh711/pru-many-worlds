@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff8c092321c4ebb49852507aec600515, type: 3}
+  m_Name: Sheep
+  m_EditorClassIdentifier: 
+  CharacterCode: Sheep
+  InventoryIndex: 0
+  Name: "C\u1EEBu Vui v\u1EBB"
+  Description: "C\u1EEBu Vui v\u1EBB"
+  CharacterStats:
+    baseHP: 120
+    baseMP: 10
+    baseATK: 33
+    baseDEF: 30
+    baseMATK: 10
+    baseMDEF: 10
+    baseCRIT: 95
+    baseSPD: 55
+    baseEVA: 10
+    baseACC: 500
+    levelUpBonusHP: 10
+    levelUpBonusMP: 2
+    levelUpBonusATK: 10
+    levelUpBonusDEF: 10
+    levelUpBonusMATK: 2
+    levelUpBonusMDEF: 2
+    levelUpBonusCRIT: 10
+    levelUpBonusSPD: 5
+    levelUpBonusEVA: 10
+    levelUpBonusACC: 25
+  Exp: 0
+  PrefabPath: Assets/Prefabs/Characters/Sheep/Sheep.prefab
+  ItemSpritePath: Assets/Sprites/Characters/Sheep/ItemSheep.png
+  ItemSprite: {fileID: 0}
+  ActiveSkillCodeList:
+  - NORMAL_ATTACK

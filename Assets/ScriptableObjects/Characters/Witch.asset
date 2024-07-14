@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff8c092321c4ebb49852507aec600515, type: 3}
+  m_Name: Witch
+  m_EditorClassIdentifier: 
+  CharacterCode: Witch
+  InventoryIndex: 0
+  Name: "Ph\xF9 th\u1EE7y Xinh \u0111\u1EB9p"
+  Description: girl with magic
+  CharacterStats:
+    baseHP: 230
+    baseMP: 10
+    baseATK: 56
+    baseDEF: 14
+    baseMATK: 80
+    baseMDEF: 14
+    baseCRIT: 220
+    baseSPD: 65
+    baseEVA: 156
+    baseACC: 412
+    levelUpBonusHP: 2
+    levelUpBonusMP: 4
+    levelUpBonusATK: 1
+    levelUpBonusDEF: 1
+    levelUpBonusMATK: 4
+    levelUpBonusMDEF: 1
+    levelUpBonusCRIT: 2
+    levelUpBonusSPD: 2
+    levelUpBonusEVA: 2
+    levelUpBonusACC: 2
+  Exp: 0
+  PrefabPath: Assets/Prefabs/Characters/Witch/Witch.prefab
+  ItemSpritePath: Assets/Sprites/Characters/Witch/ItemWitch.png
+  ItemSprite: {fileID: 0}
+  ActiveSkillCodeList:
+  - NORMAL_ATTACK

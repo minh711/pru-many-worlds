@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff8c092321c4ebb49852507aec600515, type: 3}
+  m_Name: Ratcher
+  m_EditorClassIdentifier: 
+  CharacterCode: Ratcher
+  InventoryIndex: 0
+  Name: "Chu\u1ED9t X\xE1m"
+  Description: Cat with arrow
+  CharacterStats:
+    baseHP: 80
+    baseMP: 8
+    baseATK: 26
+    baseDEF: 16
+    baseMATK: 1
+    baseMDEF: 16
+    baseCRIT: 666
+    baseSPD: 120
+    baseEVA: 450
+    baseACC: 888
+    levelUpBonusHP: 2
+    levelUpBonusMP: 2
+    levelUpBonusATK: 5
+    levelUpBonusDEF: 2
+    levelUpBonusMATK: 1
+    levelUpBonusMDEF: 1
+    levelUpBonusCRIT: 4
+    levelUpBonusSPD: 6
+    levelUpBonusEVA: 4
+    levelUpBonusACC: 4
+  Exp: 0
+  PrefabPath: Assets/Prefabs/Characters/Ratcher/Ratcher.prefab
+  ItemSpritePath: Assets/Sprites/Characters/Ratcher/ItemRatcher.png
+  ItemSprite: {fileID: 0}
+  ActiveSkillCodeList:
+  - NORMAL_ATTACK

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff8c092321c4ebb49852507aec600515, type: 3}
+  m_Name: Demon
+  m_EditorClassIdentifier: 
+  CharacterCode: Demon
+  InventoryIndex: 0
+  Name: "H\u1ED7n nguy\xEAn \u0110\u1EA1i Ma"
+  Description: 'Red demon '
+  CharacterStats:
+    baseHP: 990
+    baseMP: 3
+    baseATK: 55
+    baseDEF: 30
+    baseMATK: 55
+    baseMDEF: 30
+    baseCRIT: 222
+    baseSPD: 100
+    baseEVA: 100
+    baseACC: 420
+    levelUpBonusHP: 66
+    levelUpBonusMP: 1
+    levelUpBonusATK: 10
+    levelUpBonusDEF: 3
+    levelUpBonusMATK: 10
+    levelUpBonusMDEF: 3
+    levelUpBonusCRIT: 4
+    levelUpBonusSPD: 3
+    levelUpBonusEVA: 10
+    levelUpBonusACC: 12
+  Exp: 0
+  PrefabPath: Assets/Prefabs/Characters/Demon/Demon.prefab
+  ItemSpritePath: Assets/Sprites/Characters/Demon/ItemDemon.png
+  ItemSprite: {fileID: 0}
+  ActiveSkillCodeList:
+  - NORMAL_ATTACK

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff8c092321c4ebb49852507aec600515, type: 3}
+  m_Name: Slime
+  m_EditorClassIdentifier: 
+  CharacterCode: Slime
+  InventoryIndex: 0
+  Name: Slime
+  Description: green slime
+  CharacterStats:
+    baseHP: 100
+    baseMP: 5
+    baseATK: 10
+    baseDEF: 9
+    baseMATK: 3
+    baseMDEF: 10
+    baseCRIT: 100
+    baseSPD: 20
+    baseEVA: 100
+    baseACC: 600
+    levelUpBonusHP: 3
+    levelUpBonusMP: 2
+    levelUpBonusATK: 1
+    levelUpBonusDEF: 2
+    levelUpBonusMATK: 1
+    levelUpBonusMDEF: 2
+    levelUpBonusCRIT: 2
+    levelUpBonusSPD: 2
+    levelUpBonusEVA: 1
+    levelUpBonusACC: 1
+  Exp: 3
+  PrefabPath: Assets/Prefabs/Characters/Slime/Slime.prefab
+  ItemSpritePath: Assets/Sprites/Characters/Slime/ItemSlime.png
+  ItemSprite: {fileID: 0}
+  ActiveSkillCodeList:
+  - NORMAL_ATTACK

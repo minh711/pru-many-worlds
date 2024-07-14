@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6bd04c95f8d958246be875e891213495
+  m_SerializeEntries:
+  - m_GUID: 2085507683588f64c9ee895f8000f735
+    m_Address: Assets/Sprites/Characters/Avocado/ItemAvocado.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1cf501b137040549b2199d09b1b5200
+    m_Address: Assets/Sprites/Characters/Pepper/ItemPepper.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6dcb80d2ffb55df468a22b54b7f442b2
+    m_Address: Assets/_Scripts/Characters/Pepper.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25973b1fad09fff449be3caa1537f0c4
+    m_Address: Assets/_Scripts/Characters/Avocado.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fd21563411d9e04e85c903380494adf
+    m_Address: Assets/Prefabs/Characters/Avocado/Avocado.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aae34861898aea042b3f6a89b4493253
+    m_Address: Assets/Prefabs/Characters/Pepper/Pepper.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae38a598e901e1f46ac6bb3a88059353
+    m_Address: Assets/Sprites/Characters/Cat/ItemCat.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b751d3f2e803804490c27bf7699dca8
+    m_Address: Assets/Prefabs/Characters/Cat/Cat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fce986acbbe33c8428fbaf274a9bd96a
+    m_Address: Assets/ScriptableObjects/Characters/Cat.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be01717105e84804f976e03ba6911615
+    m_Address: Assets/Prefabs/Characters/Ratcher/Ratcher.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7efce7fae6ef5d84496def462717b8c8
+    m_Address: Assets/Sprites/Characters/Ratcher/ItemRatcher.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7416e171957973a4da7b3c58db969571
+    m_Address: Assets/ScriptableObjects/Characters/Ratcher.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa0be1345132c3247997cb7ecd69e60b
+    m_Address: Assets/Prefabs/Characters/Fox/Fox.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f374c1fa3f9a80478e707386ce056e3
+    m_Address: Assets/Sprites/Characters/Fox/ItemFox.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06a0e4a8785e606499eea13342f3dbb8
+    m_Address: Assets/ScriptableObjects/Characters/Fox.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58e74daf1826d874ba243d57ff306693
+    m_Address: Assets/Prefabs/Characters/Guard/Guard.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46e96ca76afe21d48981b05ed162d9e9
+    m_Address: Assets/Sprites/Characters/Guard/ItemGuard.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa234e403f4476d498c60bdd79d53219
+    m_Address: Assets/ScriptableObjects/Characters/Guard.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf710a372b556b64798babc044a7b175
+    m_Address: Assets/Prefabs/Characters/Witch/Witch.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e80292c7c13ee046bc8bbaa8bb9efaa
+    m_Address: Assets/Sprites/Characters/Witch/ItemWitch.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e26dc03a76929244ab977d9e9bd87deb
+    m_Address: Assets/ScriptableObjects/Characters/Witch.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c589a51f9c23da74da91846b3e069522
+    m_Address: Assets/Sprites/Crab/ItemCrab.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d0dd62d50351d44681058ed09b73ffb
+    m_Address: Assets/Prefabs/Characters/Crab/Crab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb7269fc487ce0949891607dd2a0a502
+    m_Address: Assets/ScriptableObjects/Characters/Crab.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32de29f412a3a29468895d9fb40526e7
+    m_Address: Assets/Sprites/Characters/Demon/ItemDemon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a9ec2e74de125c47947dcd2b2359f55
+    m_Address: Assets/Prefabs/Characters/Demon/Demon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a230df4ab5b2bc46a68aa82e6c6af43
+    m_Address: Assets/ScriptableObjects/Characters/Demon.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34edeec0fad78b74fab25f1acad15e56
+    m_Address: Assets/Sprites/Characters/Slime/ItemSlime.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04001fea8688ca94a86fc643d2c266d6
+    m_Address: Assets/Prefabs/Characters/Slime/Slime.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cedb310ff1a348488a85bd7ea62c465
+    m_Address: Assets/ScriptableObjects/Characters/Slime.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dc851b4cf4ddcc4fb1fc488a5cce59a
+    m_Address: Assets/ScriptableObjects/Items/ExpItems/ExpLarge.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73fd7f18e6d520049b8d3c8e8575049a
+    m_Address: Assets/ScriptableObjects/Items/ExpItems/ExpMedium.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c121ec605d9182d4ba6f9e5b32b5b6f6
+    m_Address: Assets/ScriptableObjects/Items/ExpItems/ExpSmall.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10864555e0e334444bcd6b44923c0988
+    m_Address: Assets/Sprites/Items/ExpItem/ItemExpLarge.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb84a7124f475e34b9d48b430cf8141a
+    m_Address: Assets/Sprites/Items/ExpItem/ItemExpMedium.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c67f03cbec656db4a9c933dd110f61f5
+    m_Address: Assets/Sprites/Items/ExpItem/ItemExpSmall.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03c1a092c92f15c4d8834d5dfc39a3c6
+    m_Address: Assets/Prefabs/Characters/Sheep/Sheep.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0872c41e90f4b744d8249758adb6d0fb
+    m_Address: Assets/Sprites/Characters/Sheep/ItemSheep.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0ff2a91187053b4a84623f6f2a9e462
+    m_Address: Assets/ScriptableObjects/Characters/Sheep.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 14be80a82afa9744ea4d46612d1b748b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fb743cd7539e7184f886572a1ff34039, type: 2}
+    - {fileID: 11400000, guid: 62cb1255776c75045bd3f5fed8f4802c, type: 2}
